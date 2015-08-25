@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: zmdcommons
+Bundle-SymbolicName: com.novell.zenworks.agent.core.zmdcommons
+Bundle-Version: 10.2.0.0
+Export-Package: com.novell.zenworks.agent.common,
+ com.novell.zenworks.ipc.remoting,
+ com.novell.zenworks.zicon.common,
+ com.novell.zenworks.zicon.common.dialogs,
+ com.novell.zenworks.zicon.common.progress
